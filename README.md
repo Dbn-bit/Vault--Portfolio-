@@ -31,10 +31,5 @@ Contact:
 
 <div class="file-card" onclick="openFile('ai-scan')">
   <p>🗃️ Game Environment – “Street dreams”</p>
-  <small>Status: Declassified</small>
-</div>
-
-<div class="file-card" onclick="openFile('ai-scan')">
-  <p>🗃️ Game Environment – “Neon Ruins”</p>
   <small>Status: In progress</small>
 </div>
