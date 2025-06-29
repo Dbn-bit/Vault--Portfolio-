@@ -28,3 +28,8 @@ Contact:
 🎮 Portfolio: https://your-portfolio-link.com
   </pre>
 </section>
+
+<div class="file-card" onclick="openFile('ai-scan')">
+  <p>🗃️ Game Environment – “Neon Ruins”</p>
+  <small>Status: Declassified</small>
+</div>
